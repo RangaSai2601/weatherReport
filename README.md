@@ -1,5 +1,5 @@
 # weatherReport
-Calling an external Weather API , collecting the data in json format and displaying it in proper way 
+Calling an external Weather API , collecting the data in json format and displaying it in proper way. <br> 
 This is my 3rd Project related to External Api. <br>
 Technolgies used are <br>
 <b>Frontend:- Html,Bootstrap; <br>

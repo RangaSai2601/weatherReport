@@ -7,8 +7,8 @@ Backend:- Spring boot, Spring MVC; </b> <br><br>
 <b>Short Description about how application works:- </b><br>
 Application takes the city name calls the external api and gets data in Json format. If city name is not correct then it prints an error message ("Enter valid name") on browser
 else it prints the json format in a readable manner. Below is an image attached for the refernce.<br><br>
-
-<b>Screenshot and Video</b>
+Please watch the video for more details which is attached below. <br> <br>
+<b>Screenshot </b>
 <p align="center">
   <img src="image of website.png" width="850" title="Demo of web page">
 </p>

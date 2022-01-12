@@ -10,3 +10,8 @@ else it prints the json format in a readable manner. Below is an image attached 
 <p align="center">
   <img src="image of website.png" width="850" title="Demo of web page">
 </p>
+
+<video width="320" height="240" controls>
+  <source src="Weather Report.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>

@@ -11,7 +11,7 @@ else it prints the json format in a readable manner. Below is an image attached 
   <img src="image of website.png" width="850" title="Demo of web page">
 </p>
 
-<video width="320" height="240" controls>
-  <source src="Weather Report.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+https://user-images.githubusercontent.com/77719591/149189990-b837a844-2e10-467a-9561-0171b7243889.mp4
+
